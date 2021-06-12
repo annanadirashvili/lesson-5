@@ -1,0 +1,157 @@
+body {
+	
+	background-color: ##F6F8F9;
+	padding-top: 1px;
+	
+}
+/*header*/
+.header {
+	
+	height: 50px;
+	position: fixed;
+	background-color: yellowgreen;
+	width: 100%;
+	width: 1440px;
+}
+.logo {
+	
+	margin-bottom: 17px;
+	margin-left: 20px;
+	margin-right: 92px;
+	font-size: 13px;
+	color: #FA6980;
+	width: 23px;
+}
+.navigation {
+
+	
+	
+}
+.nav-li {
+	display: inline-block;
+	font-size: 11px;
+	color: #343638;	
+	padding-bottom: 50px;
+
+}
+
+.nav-home {
+	margin-right: 27px;
+
+}
+.nav-disc {
+	margin-right: 22px;
+
+}
+				
+.nav-photos {
+	margin-right: 22px;
+
+}
+
+.girl {
+	width: 30px;
+	height: 30px;
+	margin-top: 8px;
+	margin-left: 40px ;
+	
+}
+/*container1*/
+
+.containers {
+	margin-top: 75px;
+	width: 1160px;
+	height: 410px;
+	margin-right: auto; 
+	margin-left: auto;
+	background-color: blueviolet;
+	
+
+	}
+
+.TRENDING {
+
+	font-size: 24px;
+	color: #202124;
+	margin-bottom: 40px;
+}
+
+.photos {
+	height: 350px;
+	margin-top: 40px;
+}
+	
+.div-lake {
+	position: relative;
+	width: 360px;
+	height: 180px;
+	vertical-align: top;
+	margin-right: 40px;}
+
+.p-lake {
+	position: absolute;
+	padding-top: 30px;
+	padding-left: 30px;
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-left: 31.5px;
+	padding-bottom: 136px;
+	height: 16px;
+
+}
+.div-umbrella {
+	position: relative;
+	width: 360px;
+	height: 180px;
+	vertical-align:top;
+	margin-right: 31.5px;
+}
+.p-umbrella {
+	position: absolute;
+	padding-top: 30px;
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-left: 40px;
+	padding-bottom: 136px;
+	height: 16px;
+
+}
+.div-snow {
+	position: relative;
+	width: 360px;
+	height: 180px;
+	vertical-align: top;
+}
+.p-snow {
+	position: absolute;
+	padding-top: 30px;
+	color: #FFFFFF;
+	font-size: 16px;
+	padding-left: 40px;
+	padding-bottom: 136px;
+}
+
+.p1-text {
+	width: 280px;
+	height: 36px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	padding-left: 40px;
+}
+.p2-text {
+	width: 280px;
+	height: 36px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+}
+.p3-text {
+		width: 280px;
+	height: 36px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+}
