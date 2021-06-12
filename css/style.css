@@ -1,6 +1,6 @@
 body {
 	
-	background-color: ##F6F8F9;
+	background-color: #F6F8F9;
 	padding-top: 1px;
 	
 }
@@ -9,9 +9,12 @@ body {
 	
 	height: 50px;
 	position: fixed;
-	background-color: yellowgreen;
+	/*background-color: yellowgreen;*/
 	width: 100%;
 	width: 1440px;
+	z-index: 100;
+	background-color: #F6F8F9;
+
 }
 .logo {
 	
@@ -64,7 +67,7 @@ body {
 	height: 410px;
 	margin-right: auto; 
 	margin-left: auto;
-	background-color: blueviolet;
+	/*background-color: blueviolet;*/
 	
 
 	}
@@ -79,6 +82,7 @@ body {
 .photos {
 	height: 350px;
 	margin-top: 40px;
+
 }
 	
 .div-lake {
@@ -86,7 +90,10 @@ body {
 	width: 360px;
 	height: 180px;
 	vertical-align: top;
-	margin-right: 40px;}
+	margin-right: 40px;
+
+}
+
 
 .p-lake {
 	position: absolute;
@@ -98,6 +105,19 @@ body {
 	padding-bottom: 136px;
 	height: 16px;
 
+}
+.p1-text {
+	width: 280px;
+	height: 36px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	padding-left: 40px;
+}
+.help {
+	width: 360px;
+	height: 170px;
+	background-color: #FFFFFF;
 }
 .div-umbrella {
 	position: relative;
@@ -131,14 +151,7 @@ body {
 	padding-bottom: 136px;
 }
 
-.p1-text {
-	width: 280px;
-	height: 36px;
-	font-size: 13px;
-	color: #A6ADB4;
-	margin-top: 66px;
-	padding-left: 40px;
-}
+
 .p2-text {
 	width: 280px;
 	height: 36px;
@@ -154,4 +167,110 @@ body {
 	color: #A6ADB4;
 	margin-top: 66px;
 	margin-left: 40px;
+}
+
+.div-time {
+	margin-left: 40px;
+	margin-top: 12px;
+}
+.time {
+margin-left: 10px;
+font-size: 13px;
+}
+/*verticals*/
+.vertical-pics {
+	margin-top: 238px;
+	
+}
+.HAPPENING {
+	font-size: 24px;
+	width: 730px;
+	height: 20px;
+}
+.vertical-div {
+	width: 760px;
+	height: 900px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+}
+.Vpic {
+	width: 760px;
+	height: 430px;
+}
+.divider {
+	height: 40px;
+}
+.vertical-pics2 {
+	width:360px ;
+	height: 896px;	
+	margin-left: 30px;
+}
+.spilo {
+	margin-bottom: 102px;
+}
+.road {
+	margin-bottom: 65px;
+	margin-top: 102px;
+}
+.footer {
+	height: 200px;
+	background-color: #A6ADB4;
+    margin-top: 1100px;
+
+}
+/*footer*/
+.div-left {
+	margin-left: 142px;
+
+}
+.Logo-footer {
+	vertical-align: top;
+	margin-right: 88px;
+	font-size: 13px;
+	color: #FFFFFF;
+	margin-top: 56px;
+}
+.nav-foot1 {
+	vertical-align: top;
+	margin-top: 56px;
+
+}
+.home-ft {
+	margin-bottom: 8px;
+	margin-bottom: 8px;
+	
+}
+.Discovery-ft {
+	margin-bottom: 8px;
+	margin-bottom: 8px;
+	
+}
+
+.photos-ft {
+	margin-bottom: 8px;
+	}
+.contact-ft {
+
+	font-size: 13px;
+	color: red;
+}
+.color {
+	color: #CBD0D3;
+}
+.nav-foot2 {
+	margin-left: 71px;
+	vertical-align: top;
+	margin-top: 56px;
+
+}
+.about-ft {
+	margin-top: 56px;
+	margin-bottom: 8px;
+}
+.help-ft {
+	margin-bottom: 8px;
+}
+.terms-ft {
+	margin-bottom: 8px;
 }
