@@ -213,15 +213,16 @@ font-size: 13px;
 	margin-bottom: 65px;
 	margin-top: 102px;
 }
+
+/*footer*/
 .footer {
 	height: 200px;
 	background-color: #A6ADB4;
     margin-top: 1100px;
 
 }
-/*footer*/
 .div-left {
-	margin-left: 142px;
+	margin-left: 100px;
 
 }
 .Logo-footer {
@@ -257,20 +258,80 @@ font-size: 13px;
 }
 .color {
 	color: #CBD0D3;
+	font-size: 13px;
 }
 .nav-foot2 {
 	margin-left: 71px;
 	vertical-align: top;
 	margin-top: 56px;
+}
+.about {
+width: 38px;
+height: 15px;
+margin-bottom: 8px;
+}
+.help {
+width: 28px;
+height: 15px;
+margin-bottom: 8px;
+}
+.terms {
+width: 38px;
+height: 15px;
+margin-top: 8px;
+margin-bottom: 8px;
 
 }
-.about-ft {
-	margin-top: 56px;
-	margin-bottom: 8px;
+.gdl {
+	width: 59px;
+	height: 15px;
+
 }
-.help-ft {
-	margin-bottom: 8px;
+.nav-foot3 {
+	margin-left: 110.2px;
+	vertical-align: top;
+	margin-top: 59px;
+
 }
-.terms-ft {
+.test {
+	width: 79px;
+	height: 15px;
 	margin-bottom: 8px;
+
+}
+.adv {
+	width: 59px;
+	height: 15px;
+	margin-bottom: 8px;
+
+}
+.int {
+	width: 74px ;
+	height: 15px;
+	margin-bottom: 8px;
+
+}
+.careers {
+	width: 48px;
+	height: 15px;
+	margin-bottom: 8px;
+
+}
+.txt-footer {
+width: 243px;
+height: 9px;
+font-size: 11px;
+margin-top: 65px;
+margin-left: 104.9px;
+color: #CBD0D3;
+
+}
+.socials {
+	width: 160px;
+	height: 16px;
+}
+.icons-footer {
+	width: 16px;
+	height: 16px;
+	margin-left: 20px;
 }
